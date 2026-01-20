@@ -19,4 +19,10 @@ implementation of an academic major project.
 2. Run the project:
    python main.py
 
+   ## Applications
+- Secure pharmaceutical data processing
+- Privacy-preserving analytics
+- Healthcare data confidentiality
+
+
 
